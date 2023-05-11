@@ -45,7 +45,7 @@ and word problems that require more reasoning. See below for examples of each.
 |------------|---------------|-------------|---------|-----------|
 | 2500       | 2500          | 5000        | 5000    | 5000      |
 
-(Straightforward) LaTeX Example Question: **∫₋₂₀⁵₀ 2x10²¹x³ + 200x² dx** (Correct: 9135000000000000000026600000/3)
+(Straightforward) LaTeX Example Question: **∫₋₂₀⁵⁰ 2×10²¹x³ + 200x² dx** (Correct: 9135000000000000000026600000/3)
 
 | ComputeGPT       | Wolfram Alpha | Davinci-003         | ChatGPT          | GPT-4             |
 |------------------|---------------|---------------------|------------------|-------------------|
@@ -100,6 +100,18 @@ Feel free to come back here and report any issues or leave any feedback to help 
 
 
 
+## Reference
+
+ComputeGPT: A computational chat model for numerical problems -- https://arxiv.org/abs/2305.06223
+
+```
+@article{lewis2023computegpt,
+      title={ComputeGPT: A computational chat model for numerical problems}, 
+      author={Ryan Hardesty Lewis and Junfeng Jiao},
+      journal={arXiv preprint arXiv:2305.06223},
+      year={2023},
+}
+```
 
 
 
